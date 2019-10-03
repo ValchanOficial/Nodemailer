@@ -1,0 +1,25 @@
+{
+  "name": "node_mailer",
+  "version": "1.0.0",
+  "description": "Utilizando Nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "app": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValchanOficial/Nodemailer.git"
+  },
+  "author": "Valchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValchanOficial/Nodemailer/issues"
+  },
+  "homepage": "https://github.com/ValchanOficial/Nodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
